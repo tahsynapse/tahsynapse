@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Profile! 
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
 ### *A passionate developer diving deep into code and solving challenging problems* 🚀
 
@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-<img align="right" src="https://media.giphy.com/media/SvckktL7o4gm8/giphy.gif" width="250" height="250"/>
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" height="250"/>
 
 ```python
 programmer = {
@@ -39,7 +39,7 @@ programmer = {
 
 ## 🛠️ Tech Stack
 
-<img src="https://media.giphy.com/media/26uf1EUQsDAsZcUIo/giphy.gif" width="800" height="200"/>
+<img src="https://media.giphy.com/media/UTxX72gO06kSg/giphy.gif" width="800" height="200"/>
 
 ### 💬 Programming Languages
 
@@ -98,7 +98,7 @@ programmer = {
 
 ## 📚 Learning Roadmap
 
-<img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWoLvshapI/giphy.gif" width="250" height="200"/>
+<img align="left" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250" height="200"/>
 
 ### 🌱 Eager to Master:
 
@@ -109,6 +109,7 @@ programmer = {
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
@@ -127,6 +128,7 @@ programmer = {
 | **Zig** | 🌱 Learning | █████░░░ |
 | **PHP** | 🌱 Learning | █████░░░ |
 | **LaTeX** | 📚 Exploring | ███░░░░░ |
+| **Markdown** | 📚 Exploring | ████░░░░ |
 | **Development** | 🚀 Improving | █████████ |
 | **Linux** | 🐧 Diving | ████████░ |
 | **OS** | 🔧 Studying | ████████░ |
@@ -137,7 +139,7 @@ programmer = {
 
 ## 📊 Coding Stats
 
-<img src="https://media.giphy.com/media/3o6ZsYq8e9yWJbrv6w/giphy.gif" width="800" height="300"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="800" height="300"/>
 
 <div align="center">
 
@@ -162,7 +164,7 @@ programmer = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/QssGEFrVYr0P6OFGQV/giphy.gif" width="600" height="150"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" height="150"/>
 
 </div>
 
@@ -178,13 +180,13 @@ programmer = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/jdPM56jo8fcV2JZy59/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 
 Feel free to explore my repositories, check out my projects, and don't hesitate to reach out! I'm always open to collaborating on interesting projects and discussing tech.
 
 ### **Happy Coding!** 🎉
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" height="300"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="300"/>
 
 </div>
 
