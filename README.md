@@ -1,192 +1,77 @@
 <div align="center">
 
-# 👋 Welcome to My Profile! 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:22C55E&height=210&section=header&text=tahsynapse&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Code.+Compete.+Build.&descSize=20&descAlignY=63&animation=fadeIn" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Competitive+Programmer;CSE+Student;Linux+Explorer;Always+Learning%2C+Always+Building" alt="Typing intro" />
 
-### *A passionate developer diving deep into code and solving challenging problems* 🚀
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tahsynapse&color=blueviolet)](https://github.com/tahsynapse)
-[![GitHub followers](https://img.shields.io/github/followers/tahsynapse?logo=github&style=flat&labelColor=black)](https://github.com/tahsynapse?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=tahsynapse&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS)](https://github.com/tahsynapse)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/tahsynapse?label=FOLLOWERS&style=for-the-badge&color=22C55E&labelColor=0D1117)](https://github.com/tahsynapse?tab=followers)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## Who Am I?
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" height="250"/>
-
-```python
-programmer = {
-    "name": "Tahsynapse",
-    "passion": ["Programming", "Competitive Programming"],
-    "currently_learning": ["Development", "Linux", "Operating Systems"],
-    "main_activity": "💻 Coding",
-    "philosophy": "Learn by Building"
-}
+```cpp
+class Developer {
+public:
+        string name   = "Tahsin Ahsan Sarker";
+        string focus  = "Competitive Programming";
+        string style  = "Think deeply. Code cleanly.";
+        string status = "Building and solving hard problems";
+};
 ```
 
-- 💻 **What I Do**: Spend most of my time **Coding**
-- 🎮 **My Hobbies**: Programming, Competitive Programming (CP)  
-- 🌱 **Currently Learning**: Development, Linux, Operating Systems
-- ⚡ **Fun Fact**: Writing code is my favorite way to learn!
-- 🎓 **Always**: Exploring new technologies
-
-<br clear="right"/>
+- Strong interest in algorithms, data structures, and competitive programming.
+- Daily coding with a learn-by-building mindset.
+- Currently diving deeper into Linux, systems, and core CS fundamentals.
 
 ---
 
-## 🛠️ Tech Stack
+## Languages & Tools
 
-<img src="https://media.giphy.com/media/UTxX72gO06kSg/giphy.gif" width="800" height="200"/>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,cs,html,css,django,postgres,git,linux,vscode,neovim,vim,github&perline=8&theme=dark" />
+</p>
 
-### 💬 Programming Languages
+<p align="center">
 
-<div align="center">
+![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-FFCC00?style=for-the-badge)
+![SDL2](https://img.shields.io/badge/SDL2-003366?style=for-the-badge)
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-</div>
-
-### 🌐 Web Technologies
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%23FF6B6B.svg?style=for-the-badge&logo=xml&logoColor=white)
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-### 🚀 Frameworks & Libraries
-
-<div align="center">
-
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Raylib](https://img.shields.io/badge/Raylib-%23FFCC00.svg?style=for-the-badge&logo=raylib&logoColor=black)
-![SDL2](https://img.shields.io/badge/SDL2-%23000000.svg?style=for-the-badge&logoColor=white)
-![Qt6](https://img.shields.io/badge/Qt6-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
-
-</div>
-
-### 🖥️ Tools & Editors
-
-<div align="center">
-
-![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-%23017C6B.svg?style=for-the-badge&logo=neovim&logoColor=white)
-
-</div>
+</p>
 
 ---
 
-## 📚 Learning Roadmap
+## GitHub Stats
 
-<img align="left" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250" height="200"/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tahsynapse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=1F6FEB&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsynapse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF" alt="Top Languages" height="180"/>
+</p>
 
-### 🌱 Eager to Master:
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23CE422B.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-</div>
-
-<br clear="left"/>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=tahsynapse&theme=tokyonight&hide_border=true&background=0D1117&ring=22C55E&fire=1F6FEB&currStreakLabel=22C55E" alt="GitHub Streak" width="500"/>
+</p>
 
 ---
 
-## 🎓 Learning Journey
+## Learning Focus
 
 <div align="center">
 
-| 🎯 Topic | 📊 Status | 🔥 Intensity |
-|-------|--------|---|
-| **Go** | 🌱 Learning | ██████░░ |
-| **Rust** | 🌱 Learning | ██████░░ |
-| **Zig** | 🌱 Learning | █████░░░ |
-| **PHP** | 🌱 Learning | █████░░░ |
-| **LaTeX** | 📚 Exploring | ███░░░░░ |
-| **Markdown** | 📚 Exploring | ████░░░░ |
-| **Development** | 🚀 Improving | █████████ |
-| **Linux** | 🐧 Diving | ████████░ |
-| **OS** | 🔧 Studying | ████████░ |
-
-</div>
-
----
-
-## 📊 Coding Stats
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="800" height="300"/>
-
-<div align="center">
-
-```
-╔════════════════════════════════════╗
-║   💻 CODING PROFILE                ║
-╠════════════════════════════════════╣
-║ 🎯 Focus: Problem Solving          ║
-║ 📚 Method: Learn by Building       ║
-║ 🎮 Playground: Multi-Language      ║
-║ ⚡ Speed: Fast Learner             ║
-║ 🔬 Curiosity: Very High            ║
-║ 🏆 Goal: Master Modern Tech        ║
-╚════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🌟 Highlights
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" height="150"/>
-
-</div>
-
-- 🔥 **Passionate** about solving complex problems with elegant code
-- 🎯 **Focused** on continuous learning and self-improvement
-- 💡 **Creative** in finding innovative solutions
-- 🚀 **Driven** to build impactful projects
-- 🤝 **Collaborative** and open to new ideas
-
----
-
-## 💬 Let's Connect & Collaborate!
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
-
-Feel free to explore my repositories, check out my projects, and don't hesitate to reach out! I'm always open to collaborating on interesting projects and discussing tech.
-
-### **Happy Coding!** 🎉
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="300"/>
+| Topic | Status | Progress |
+|:---|:---|:---|
+| Competitive Programming | Active grind | `█████████░` |
+| Linux / OS Internals | Deep dive | `████████░░` |
+| CSE Fundamentals | Studying | `████████░░` |
+| Rust | Learning | `██████░░░░` |
+| Go | Learning | `██████░░░░` |
 
 </div>
 
@@ -194,8 +79,13 @@ Feel free to explore my repositories, check out my projects, and don't hesitate 
 
 <div align="center">
 
-### 🙏 Thanks for visiting! Don't forget to star my repositories if you find them useful! ⭐
+### Thanks for visiting
 
-![Made with Love](https://img.shields.io/badge/Made%20with%20❤️%20by-tahsynapse-red?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahsynapse)
+[![Follow](https://img.shields.io/badge/Follow%20Me-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahsynapse?tab=followers)
+
+![Made with Love](https://img.shields.io/badge/Made%20with%20Love%20by-tahsynapse-22C55E?style=for-the-badge&labelColor=0D1117)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,45:1F6FEB,100:0D1117&height=120&section=footer&animation=fadeIn" />
