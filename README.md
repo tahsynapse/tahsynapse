@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:22C55E&height=210&section=header&text=tahsynapse&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Code.+Compete.+Build.&descSize=20&descAlignY=63&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Competitive+Programmer;CSE+Student;Linux+Explorer;Always+Learning%2C+Always+Building" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Competitive+Programmer;Student;Linux+Explorer;Always+Learning%2C+Always+Building" alt="Typing intro" />
 
 <br/>
 
