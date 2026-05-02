@@ -3,11 +3,15 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Competitive+Programmer;CSE+Student+%40+IUT;Linux+Power+User;Always+Learning%2C+Always+Building" alt="Typing intro" />
 
-  <br/>
+  <br/><br/>
 
   [![Profile Views](https://komarev.com/ghpvc/?username=tahsynapse&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS)](https://github.com/tahsynapse)
   &nbsp;
   [![Followers](https://img.shields.io/github/followers/tahsynapse?label=FOLLOWERS&style=for-the-badge&color=22C55E&labelColor=0D1117)](https://github.com/tahsynapse?tab=followers)
+
+  <br/>
+
+  [![GitLab](https://img.shields.io/badge/GitLab-tahsynapse-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tahsynapse)
   &nbsp;
   [![Codeforces](https://img.shields.io/badge/Codeforces-tahsynapse-1F6FEB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tahsynapse)
   &nbsp;
@@ -26,13 +30,14 @@ public:
     string focus       = "Competitive Programming";
     string approach    = "Think deeply. Code cleanly.";
     string passions[]  = {"Algorithms", "Linux", "Systems", "ML"};
+    string os          = "CachyOS (Arch-based)";
     string status      = "Building and solving hard problems";
 };
 ```
 
 - Strong interest in algorithms, data structures, and competitive programming (Codeforces · AtCoder · ICPC).
 - Daily coding with a learn-by-building mindset.
-- Power user on **CachyOS** (Arch-based) — fish shell, kitty, neovim.
+- Power user on **CachyOS** — fish shell, kitty terminal, neovim.
 - Currently diving deeper into Linux internals, systems programming, and machine learning.
 
 ---
@@ -112,10 +117,12 @@ public:
 
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahsynapse)
 &nbsp;
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tahsynapse)
+&nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F6FEB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tahsynapse)
 &nbsp;
 [![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/tahsynapse)
-&nbsp;
+
 ![Made with Love](https://img.shields.io/badge/Made%20with%20Love%20by-tahsynapse-22C55E?style=for-the-badge&labelColor=0D1117)
 
 </div>
