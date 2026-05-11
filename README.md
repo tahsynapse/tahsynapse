@@ -45,15 +45,15 @@ public:
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,cs,html,css,django,postgres,git,linux,vscode,neovim,vim,github&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,postgres,git,linux,neovim&perline=8&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raylib-FFCC00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SDL2-003366?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CachyOS-1F6FEB?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/fish_shell-3E4D6C?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kitty-0D1117?style=for-the-badge&logo=gnome-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raylib-FFCC00?style=for-the-badge"/>
 </p>
 
 ---
@@ -76,21 +76,25 @@ public:
 
 <p align="center">
   <a href="https://codeforces.com/profile/tahsynapse">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsynapse&theme=dark&force_username=true&border_color=1F6FEB" alt="Codeforces Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/tahsynapse">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F6FEB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-tahsynapse-1F6FEB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://atcoder.jp/users/tahsynapse">
-    <img src="https://img.shields.io/badge/AtCoder-Profile-222222?style=for-the-badge&logo=atcoder&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AtCoder-tahsynapse-222222?style=for-the-badge&logo=atcoder&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/ICPC-Aspirant-EF4444?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
+
+<div align="center">
+
+| Arena | Handle | Status |
+|:---|:---|:---|
+| Codeforces | [tahsynapse](https://codeforces.com/profile/tahsynapse) | Active |
+| AtCoder | [tahsynapse](https://atcoder.jp/users/tahsynapse) | Active |
+| ICPC | — | Aspirant |
+
+</div>
 
 ---
 
@@ -112,16 +116,6 @@ public:
 ---
 
 <div align="center">
-
-### Thanks for visiting
-
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahsynapse)
-&nbsp;
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tahsynapse)
-&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F6FEB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tahsynapse)
-&nbsp;
-[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/tahsynapse)
 
 ![Made with Love](https://img.shields.io/badge/Made%20with%20Love%20by-tahsynapse-22C55E?style=for-the-badge&labelColor=0D1117)
 
