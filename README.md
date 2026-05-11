@@ -61,9 +61,9 @@ public:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahsynapse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=1F6FEB&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-tahsynapse.vercel.app/api?username=tahsynapse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=1F6FEB&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsynapse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-tahsynapse.vercel.app/api/top-langs/?username=tahsynapse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF&langs_count=8&hide=html,css" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
